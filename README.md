@@ -21,7 +21,7 @@
 
 ---
 
-Check out my GitHub repositories with academic and personal projects showcasing my background in wet lab techniques, omics data exploration, and my journey into bioinformatics and machine learning.
+Check out my GitHub repositories with academic and personal projects.
 
 Interested in my academic experience? Visit my LinkedIn for more insights.
 

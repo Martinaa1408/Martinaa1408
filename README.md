@@ -1,4 +1,4 @@
-# Hi, I'm Martina 👩‍🔬
+# Hi, I'm Martina 👋
 
 ## 🌍 About Me
 

@@ -27,6 +27,6 @@ Interested in my academic experience? Visit my LinkedIn and my personal website 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Martina%20Castellucci-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/martina-castellucci-45b120298/)
 
-[My personal website](https://martinaa1408.github.io)
+[martinaa1408.github.io](https://martinaa1408.github.io)
 
 

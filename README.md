@@ -27,4 +27,8 @@ Interested in my academic experience? Visit my LinkedIn for more insights.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Martina%20Castellucci-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/martina-castellucci-45b120298/)
 
+Here you can find my thesis, CV, and academic projects.
+
+🌐 [My personal website](https://martinaa1408.github.io)
+
 

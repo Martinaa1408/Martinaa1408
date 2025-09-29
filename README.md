@@ -1,6 +1,6 @@
-## Hi, I'm Martina 👋
+## Hi, I'm Martina!
 
-### 🌍 About Me
+### 👤 About Me
 
 - MSc student in Bioinformatics at the University of Bologna (2024–2026)  
 - BSc in Biotechnology from the University of Bologna 

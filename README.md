@@ -23,13 +23,13 @@
 
 ### 📂 Projects
 
-    [LB2_project_Group_5](https://github.com/Martinaa1408/LB2_project_Group_5)  
-    [AG_project](https://github.com/Martinaa1408/AG_project)
-    [ML_basic_project](https://github.com/Martinaa1408/ML_basic_project)
-    [Introduction-to-Infrastructures](https://github.com/Martinaa1408/Introduction-to-Infrastructures)
-    [BDB](https://github.com/Martinaa1408/BDB)
-    [DNARNA_Group4](https://github.com/Martinaa1408/DNARNA_Group4)
-    [Kunitz_HMM_project](https://github.com/Martinaa1408/Kunitz_HMM_project)
+**[LB2_project_Group_5](https://github.com/Martinaa1408/LB2_project_Group_5)**
+[AG_project](https://github.com/Martinaa1408/AG_project)
+[ML_basic_project](https://github.com/Martinaa1408/ML_basic_project)
+[Introduction-to-Infrastructures](https://github.com/Martinaa1408/Introduction-to-Infrastructures)
+[BDB](https://github.com/Martinaa1408/BDB)
+[DNARNA_Group4](https://github.com/Martinaa1408/DNARNA_Group4)
+[Kunitz_HMM_project](https://github.com/Martinaa1408/Kunitz_HMM_project)
 
 ---
 

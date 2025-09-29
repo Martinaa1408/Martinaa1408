@@ -2,11 +2,11 @@
 
 ## 🌍 About Me
 
-- 🎓 MSc student in Bioinformatics at the University of Bologna (2024–2026)  
-- 🧬 BSc in Biotechnology from the University of Bologna 
-- 🧠 Deeply fascinated by the intersection between omics technologies, neuroscience and data science  
-- 🤖 I’m currently exploring the potential of machine learning in understanding complex biological systems  
-- 🧪 Background in molecular biology and histological techniques, with experience in research labs
+- MSc student in Bioinformatics at the University of Bologna (2024–2026)  
+- BSc in Biotechnology from the University of Bologna 
+- Deeply fascinated by the intersection between omics technologies, neuroscience and data science  
+- I’m currently exploring the potential of machine learning in understanding complex biological systems  
+- Background in molecular biology and histological techniques, with experience in research labs
 
 ---
 
@@ -21,7 +21,11 @@
 
 ---
 
-## Contacts
+## 📂 Projects
+
+---
+
+## 📬 Contacts
 [![GitHub followers](https://img.shields.io/github/followers/Markus2409?label=Follow&style=social)](https://github.com/martinaa1408)
 [![Gmail](https://img.shields.io/badge/Gmail-email-red?logo=gmail)](mailto:martycastellucci@gmail.com)
 [![Outlook](https://img.shields.io/badge/Outlook-Email-blue?logo=microsoft-outlook&logoColor=white)](mailto:martina.castellucci@studio.unibo.it)
@@ -29,7 +33,7 @@
 
 ---
 
-## My website
+## 🌐 My website
 
 Interested in my academic experience? Visit my personal website for more insights.
 

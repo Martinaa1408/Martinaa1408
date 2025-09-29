@@ -20,13 +20,16 @@
 - **Neuroscience curiosity**: Currently diving into omics-driven neurobiology and systems neuroscience
 
 ---
+
+## Contacts
 [![GitHub followers](https://img.shields.io/github/followers/Markus2409?label=Follow&style=social)](https://github.com/martinaa1408)
 [![Gmail](https://img.shields.io/badge/Gmail-email-red?logo=gmail)](mailto:martycastellucci@gmail.com)
-[![Outlook](https://img.shields.io/badge/Outlook-email-blue?logo=Outlook)](mailto:martina.castellucci@studio.unibo.it)
-[
+[![Outlook](https://img.shields.io/badge/Outlook-Email-blue?logo=microsoft-outlook&logoColor=white)](mailto:martina.castellucci@studio.unibo.it)
+[[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuo-username/)
+
 ---
 
-Check out my GitHub repositories with academic and personal projects.
+## My website
 
 Interested in my academic experience? Visit my personal website for more insights.
 

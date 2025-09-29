@@ -25,6 +25,6 @@ Check out my GitHub repositories with academic and personal projects.
 
 Interested in my academic experience? Visit my personal website for more insights.
 
-[![My Website][martinaa1408.github.io](https://img.shields.io/badge/My%20Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://martinaa1408.github.io)  
+[![My Website]![martinaa1408.github.io](https://img.shields.io/badge/My%20Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://martinaa1408.github.io)  
 
 

@@ -23,23 +23,32 @@
 
 ### 📂 Projects
 
-**[LB2 project Group 5](https://github.com/Martinaa1408/LB2_project_Group_5)**
+**[Laboratory 2 of Bioinformatics project Group 5:](https://github.com/Martinaa1408/LB2_project_Group_5)**
+> This repository contains the datasets, scripts, and analyses for the Laboratory of Bioinformatics II course project, focusing on the prediction of secretory signal peptides.
 
-**[AG project](https://github.com/Martinaa1408/AG_project)**
+**[Applied Genomics project](https://github.com/Martinaa1408/AG_project)**
+> This project focuses on the hybrid genome and transcriptome analysis of compost-derived fungal isolates with bioplastic-degrading potential. 
 
 **[AML basic project](https://github.com/Martinaa1408/ML_basic_project)**
+> Machine Learning project on the UCI Yeast dataset for protein subcellular localization. 
 
-**[Introduction to Infrastructures (BDP1)](https://github.com/Martinaa1408/Introduction-to-Infrastructures)**
+**[Introduction to o Big Data Processing Infrastructures (BDP1)](https://github.com/Martinaa1408/Introduction-to-Infrastructures)**
+> This repository contains the complete course summary for BDP1 (Introduction to Big Data Processing Infrastructures). 
 
-**[Computational Method](https://github.com/Martinaa1408/Computational_Method)**
+**[Computational Method of Bioinformatics](https://github.com/Martinaa1408/Computational_Method)**
+> This repository collects materials, notebooks, script and examples related to computational methods applied to biological data. 
 
-**[BDB](https://github.com/Martinaa1408/BDB)**
+**[Biomedical Databases](https://github.com/Martinaa1408/BDB)**
+> This repository contains notes, slides, and notebooks for the Biomedical Data Bases course.
 
-**[DNARNA Group4](https://github.com/Martinaa1408/DNARNA_Group4)**
+**[DNA-RNA dynamics project Group4](https://github.com/Martinaa1408/DNARNA_Group4)**
+> This repository contains the final project of Group 4 for the DNA/RNA Dynamics course that provides a full Illumina 450K methylation analysis pipeline in R.
 
-**[Kunitz HMM project (LAB1)](https://github.com/Martinaa1408/Kunitz_HMM_project)**
+**[Kunitz HMM project of Laboratory 1 of Bioinformatics](https://github.com/Martinaa1408/Kunitz_HMM_project)**
+> Computational pipeline for detecting Kunitz-type protease inhibitor domains (PF00014) using a Profile HMM.
 
-**[SISB](https://github.com/Martinaa1408/Systems-and-In-Silico-Biology)**
+**[Systems and In Silico Biology](https://github.com/Martinaa1408/Systems-and-In-Silico-Biology)**
+> This repository is a collection of study materials for the course Systems and In Silico Biology.
 
 ---
 

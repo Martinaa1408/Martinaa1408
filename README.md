@@ -41,7 +41,7 @@
 **[Biomedical Databases](https://github.com/Martinaa1408/BDB)**
 > This repository contains notes, slides, and notebooks for the Biomedical Data Bases course.
 
-**[DNA-RNA dynamics project Group4](https://github.com/Martinaa1408/DNARNA_Group4)**
+**[DNA-RNA dynamics project Group 4](https://github.com/Martinaa1408/DNARNA_Group4)**
 > This repository contains the final project of Group 4 for the DNA/RNA Dynamics course that provides a full Illumina 450K methylation analysis pipeline in R.
 
 **[Kunitz HMM project of Laboratory 1 of Bioinformatics](https://github.com/Martinaa1408/Kunitz_HMM_project)**

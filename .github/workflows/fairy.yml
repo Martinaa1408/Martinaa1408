@@ -1,4 +1,4 @@
-name: Generate Fairy 🧚 Contributions
+name: Generate Fairy ✨ Contributions
 
 on:
   schedule:
@@ -19,10 +19,8 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/fairy-contribution-graph.svg
-
-      - name: Replace snake with fairy
-        run: |
-          python3 scripts/replace_with_fairy.py
+          color_snake: "#ffb6c1"   # colore del "serpente" (rosa fatina)
+          color_dots: "#a3e4d7,#f9e79f,#bb8fce"  # colori delle stelline/puntini
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3

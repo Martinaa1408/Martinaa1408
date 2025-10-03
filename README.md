@@ -1,5 +1,22 @@
 ## Hi, I'm Martina!
 
+## Fairy Contributions
+![Fairy](https://raw.githubusercontent.com/Martinaa1408/Martinaa1408/output/github-contribution-fairy.svg)
+
+## GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Martinaa1408&show_icons=true&theme=tokyonight)
+
+### Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Martinaa1408&layout=compact&theme=tokyonight)
+
+---
+
+## ⏱️ Coding Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ### 👤 About Me
 
 - MSc student in Bioinformatics at the University of Bologna (2024–2026)  

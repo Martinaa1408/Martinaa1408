@@ -28,11 +28,6 @@
 
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Martinaa1408&theme=tokyonight&date_format=j%20M%5B%20Y%5D&sideLabels=ffffff&dates=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=ffffff&stroke=ffffff&background=1a1b27" height="180em"/>
-</p>
-
-
 ---
 
 ### 👤 About Me

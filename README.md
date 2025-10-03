@@ -1,6 +1,21 @@
 ## Hi, I'm Martina!
 
-![Fairy](https://raw.githubusercontent.com/Martinaa1408/Martinaa1408/output/github-contribution-fairy.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Martinaa1408/Martinaa1408/output/fairy-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Martinaa1408/Martinaa1408/output/fairy-contribution-graph.svg">
+  <img alt="Fairy contribution graph" src="https://raw.githubusercontent.com/Martinaa1408/Martinaa1408/output/fairy-contribution-graph.svg">
+</picture>
+
+<h1 align="center">Hi, I'm Martina! 🧚✨</h1>
+
+<p align="center">
+  <a href="https://github.com/Martinaa1408" target="_blank">
+    <img src="https://img.shields.io/github/followers/Martinaa1408?label=Follow&style=social" alt="GitHub Follow">
+  </a>
+  <a href="mailto:martina.cuscu01@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/email-Contact-blue?style=flat&logo=gmail" alt="Email">
+  </a>
+</p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Martinaa1408&show_icons=true&theme=tokyonight)
 

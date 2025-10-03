@@ -19,7 +19,7 @@
   <img src="https://raw.githubusercontent.com/Martinaa1408/Martinaa1408/output/fairy-contribution-graph.svg" alt="Fairy Contribution Graph"/>
 </p>
 
-
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Martinaa1408&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="180em"/>

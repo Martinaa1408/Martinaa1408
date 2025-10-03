@@ -1,8 +1,5 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Martinaa1408/Martinaa1408/output/fairy-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Martinaa1408/Martinaa1408/output/fairy-contribution-graph.svg">
-  <img alt="Fairy contribution graph" src="https://raw.githubusercontent.com/Martinaa1408/Martinaa1408/output/fairy-contribution-graph.svg">
-</picture>
+![Fairy](https://raw.githubusercontent.com/Martinaa1408/Martinaa1408/output/fairy-contribution-graph.svg)
+
 
 <h1 align="center">Hi, I'm Martina! </h1>
 

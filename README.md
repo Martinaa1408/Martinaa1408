@@ -15,7 +15,10 @@
   </a>
 </p>
 
-![Fairy](https://raw.githubusercontent.com/Martinaa1408/Martinaa1408/output/fairy-contribution-graph.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Martinaa1408/Martinaa1408/output/fairy-contribution-graph.svg" alt="Fairy Contribution Graph"/>
+</p>
+
 
 
 <p align="center">

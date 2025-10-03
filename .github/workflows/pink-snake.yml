@@ -1,4 +1,4 @@
-name: Generate Fairy ✨ Contributions
+name: Pink Snake 🌸 Contributions
 
 on:
   schedule:
@@ -13,14 +13,14 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Generate contribution graph
+      - name: Generate pink snake graph
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/fairy-contribution-graph.svg
-          color_snake: "#ffb6c1"   # colore del "serpente" (rosa fatina)
-          color_dots: "#a3e4d7,#f9e79f,#bb8fce"  # colori delle stelline/puntini
+            dist/pink-snake-contribution-graph.svg
+          color_snake: "#ff69b4"  # rosa shocking
+          color_dots: "#ffe4e1,#ffc0cb,#ffb6c1"  # rosa chiaro
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3

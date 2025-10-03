@@ -10,11 +10,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
+
+      - name: Generate Fairy
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-fairy.svg
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:

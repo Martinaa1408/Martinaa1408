@@ -4,14 +4,20 @@
   <img alt="Fairy contribution graph" src="https://raw.githubusercontent.com/Martinaa1408/Martinaa1408/output/fairy-contribution-graph.svg">
 </picture>
 
-<h1 align="center">Hi, I'm Martina! 🧚✨</h1>
+<h1 align="center">Hi, I'm Martina! </h1>
 
 <p align="center">
   <a href="https://github.com/Martinaa1408" target="_blank">
     <img src="https://img.shields.io/github/followers/Martinaa1408?label=Follow&style=social" alt="GitHub Follow">
   </a>
   <a href="mailto:marty.castellucci@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/email-Contact-blue?style=flat&logo=gmail" alt="Email">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="mailto:martina.castellucci@studio.unibo.it" target="_blank">
+    <img src="https://img.shields.io/badge/Outlook-Email-blue?logo=microsoft-outlook&logoColor=white" alt="Outlook">
+  </a>
+  <a href="https://www.linkedin.com/in/martina-castellucci-45b120298/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
@@ -74,13 +80,6 @@
 
 **[Systems and In Silico Biology](https://github.com/Martinaa1408/Systems-and-In-Silico-Biology)**
 > This repository is a collection of study materials for the course Systems and In Silico Biology.
-
----
-
-### 📬 Contacts
-
-[![Outlook](https://img.shields.io/badge/Outlook-Email-blue?logo=microsoft-outlook&logoColor=white)](mailto:martina.castellucci@studio.unibo.it)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martina-castellucci-45b120298/)
 
 ---
 

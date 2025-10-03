@@ -17,7 +17,7 @@ jobs:
 
     steps:
       - name: Generate fairy-contribution-graph.svg
-        uses: abozanona/fairy-contribution-graph@main
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
           character: "🧚"

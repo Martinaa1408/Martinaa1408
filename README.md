@@ -1,6 +1,3 @@
-![Fairy](https://raw.githubusercontent.com/Martinaa1408/Martinaa1408/output/fairy-contribution-graph.svg)
-
-
 <h1 align="center">Hi, I'm Martina! </h1>
 
 <p align="center">
@@ -18,9 +15,12 @@
   </a>
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Martinaa1408&show_icons=true&theme=tokyonight)
+![Fairy](https://raw.githubusercontent.com/Martinaa1408/Martinaa1408/output/fairy-contribution-graph.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Martinaa1408&layout=compact&theme=tokyonight)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Martinaa1408&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Martinaa1408&layout=compact&langs_count=8&theme=tokyonight)
 
 
 <!--START_SECTION:waka-->

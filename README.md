@@ -17,7 +17,6 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Martinaa1408/Martinaa1408/output/pink-snake-contribution-graph.svg" alt="Pink Snake Graph"/>
-  <img src="https://raw.githubusercontent.com/Martinaa1408/Martinaa1408/output/purple-snake-contribution-graph.svg" alt="Purple Snake Graph"/>
 </p>
 
 

@@ -20,8 +20,14 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Martinaa1408/Martinaa1408/main/github-metrics.svg" alt="GitHub Metrics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Martinaa1408&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&title_color=ffffff&text_color=ffffff&icon_color=ffffff&cache_seconds=1800" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martinaa1408&layout=compact&langs_count=8&theme=tokyonight&title_color=ffffff&text_color=ffffff&icon_color=ffffff&cache_seconds=1800" height="180em"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Martinaa1408&theme=tokyonight&date_format=j%20M%5B%20Y%5D&sideLabels=ffffff&dates=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=ffffff&stroke=ffffff&background=1a1b27" height="180em"/>
+</p>
+
 
 ---
 

@@ -1,5 +1,3 @@
-## Hi, I'm Martina!
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Martinaa1408/Martinaa1408/output/fairy-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Martinaa1408/Martinaa1408/output/fairy-contribution-graph.svg">
@@ -12,7 +10,7 @@
   <a href="https://github.com/Martinaa1408" target="_blank">
     <img src="https://img.shields.io/github/followers/Martinaa1408?label=Follow&style=social" alt="GitHub Follow">
   </a>
-  <a href="mailto:martina.cuscu01@gmail.com" target="_blank">
+  <a href="mailto:marty.castellucci@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/email-Contact-blue?style=flat&logo=gmail" alt="Email">
   </a>
 </p>
@@ -80,8 +78,7 @@
 ---
 
 ### 📬 Contacts
-[![GitHub followers](https://img.shields.io/github/followers/martinaa1408?label=Follow&style=social)](https://github.com/martinaa1408)
-[![Gmail](https://img.shields.io/badge/Gmail-email-red?logo=gmail)](mailto:martycastellucci@gmail.com)
+
 [![Outlook](https://img.shields.io/badge/Outlook-Email-blue?logo=microsoft-outlook&logoColor=white)](mailto:martina.castellucci@studio.unibo.it)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martina-castellucci-45b120298/)
 

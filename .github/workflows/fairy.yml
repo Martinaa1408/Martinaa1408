@@ -2,7 +2,7 @@ name: Generate Fairy 🧚 Contributions
 
 on:
   schedule:
-    - cron: "0 0 * * *" 
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -22,7 +22,7 @@ jobs:
 
       - name: Replace snake with fairy
         run: |
-          sed -i 's/•/🧚/g' dist/fairy-contribution-graph.svg
+          python3 scripts/replace_with_fairy.py
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3

@@ -2,23 +2,27 @@ name: Generate Fairy 🧚 Contributions
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" 
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write   
+      contents: write
     steps:
       - uses: actions/checkout@v3
 
-      - name: Generate Fairy
+      - name: Generate contribution graph
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/fairy-contribution-graph.svg
+
+      - name: Replace snake with fairy
+        run: |
+          sed -i 's/•/🧚/g' dist/fairy-contribution-graph.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3

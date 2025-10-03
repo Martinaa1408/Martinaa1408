@@ -20,6 +20,7 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Martinaa1408&bg_color=1a1b27&color=ffffff&line=70a5fd&point=ffffff&area=true&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api?username=Martinaa1408&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&title_color=ffffff&text_color=ffffff&icon_color=ffffff&cache_seconds=1800" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martinaa1408&layout=compact&langs_count=8&theme=tokyonight&title_color=ffffff&text_color=ffffff&icon_color=ffffff&cache_seconds=1800" height="180em"/>
 </p>

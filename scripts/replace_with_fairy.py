@@ -5,25 +5,24 @@ svg_path = "dist/fairy-contribution-graph.svg"
 with open(svg_path, "r", encoding="utf-8") as f:
     svg_content = f.read()
 
-# Trova tutti i rettangoli che formano il serpente
+# Trova tutti i <rect .../> del serpente
 rect_pattern = re.compile(r"<rect([^>]*)/>")
 
-def rect_to_fairy(match):
+def rect_to_star(match):
     attrs = match.group(1)
     x_match = re.search(r'x="([\d\.]+)"', attrs)
     y_match = re.search(r'y="([\d\.]+)"', attrs)
     if not x_match or not y_match:
         return match.group(0)
 
-    # Centra l'emoji sulle coordinate
     x = float(x_match.group(1)) + 2
     y = float(y_match.group(1)) + 6
-    return f'<text x="{x}" y="{y}" font-size="8">🧚</text>'
+    # Usa una stellina al posto del rettangolo
+    return f'<text x="{x}" y="{y}" font-size="8">✨</text>'
 
-# Sostituisci TUTTI i <rect> con fatine
-new_svg_content = rect_pattern.sub(rect_to_fairy, svg_content)
+new_svg_content = rect_pattern.sub(rect_to_star, svg_content)
 
 with open(svg_path, "w", encoding="utf-8") as f:
     f.write(new_svg_content)
 
-print("✨ Serpentone trasformato in fatine!")
+print("🌟 Serpentone trasformato in stelline!")

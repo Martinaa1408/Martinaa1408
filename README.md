@@ -23,10 +23,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martinaa1408&layout=compact&langs_count=8&theme=tokyonight&title_color=ffffff&text_color=ffffff&icon_color=ffffff&cache_seconds=1800" height="180em"/>
 </p>
 
-![Martina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Martinaa1408&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=Martinaa1408&theme=tokyonight&border_radius=10)
-[![Martina's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Martinaa1408&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ---
 
 ### 👤 About Me

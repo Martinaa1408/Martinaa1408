@@ -23,6 +23,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martinaa1408&layout=compact&langs_count=8&theme=tokyonight&title_color=ffffff&text_color=ffffff&icon_color=ffffff&cache_seconds=1800" height="180em"/>
 </p>
 
+![Martina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Martinaa1408&show_icons=true&theme=tokyonight)
+
 ---
 
 ### 👤 About Me
@@ -37,7 +39,7 @@
 
 ### 💻 Skills
 
-- ![Python](https://skillicons.dev/icons?i=python,r,jupyter,git,github,linux,vscode,html,css)
+- **Learning and Using**: Python, Bash, R, Linux
 - **Computational Biology & Bioinformatics**: Modeling of complex biological systems, omics data interpretation, protein structure prediction and analysis, 
     protein-ligand interactions, molecular simulations, and data-driven biological inference  
 - **Wet Lab Skills**: Western blot, flow cytometry, cryosectioning, immunohistochemistry, sample processing  

@@ -37,10 +37,7 @@
 
 ### 💻 Skills
 
-- **Learning and Using**: Python, Bash, R, Linux
-
-![Python](https://skillicons.dev/icons?i=python,r,jupyter,git,github,linux,vscode,html,css)
-
+- ![Python](https://skillicons.dev/icons?i=python,r,jupyter,git,github,linux,vscode,html,css)
 - **Computational Biology & Bioinformatics**: Modeling of complex biological systems, omics data interpretation, protein structure prediction and analysis, 
     protein-ligand interactions, molecular simulations, and data-driven biological inference  
 - **Wet Lab Skills**: Western blot, flow cytometry, cryosectioning, immunohistochemistry, sample processing  

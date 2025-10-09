@@ -24,6 +24,10 @@
 </p>
 
 ![Martina's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Martinaa1408&theme=github-compact)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Hi!+I'm+Martina;Bioinformatics+Student;Machine+Learning+Enthusiast;Genomics+Researcher)](https://git.io/typing-svg)
+![Metrics](https://github-readme-metrics.vercel.app/api?username=Martinaa1408&theme=dark&base=header,activity,community,repositories,metadata)
+![GitHub Streak](https://streak-stats.demolab.com?user=Martinaa1408&theme=tokyonight&hide_border=true)
 
 ---
 

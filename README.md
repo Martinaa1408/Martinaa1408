@@ -19,8 +19,6 @@
   <img src="https://raw.githubusercontent.com/Martinaa1408/Martinaa1408/output/pink-snake-contribution-graph.svg" alt="Pink Snake Graph"/>
 </p>
 
-[Martina's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Martinaa1408&theme=github-compact)
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martinaa1408&layout=compact&langs_count=8&theme=tokyonight&title_color=ffffff&text_color=ffffff&icon_color=ffffff&cache_seconds=1800" height="180em"/>
 </p>

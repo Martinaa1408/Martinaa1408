@@ -63,9 +63,6 @@
 **[Computational Method of Bioinformatics](https://github.com/Martinaa1408/Computational_Method)**
 > This repository collects materials, notebooks, script and examples related to computational methods applied to biological data.
 
-**[Algorithms and Data Structures](https://github.com/Martinaa1408/Algorithms-and-data-structures)**  
-> This repository collects study materials for the Algorithms and Data Structures course, including theory, formulas, cheatsheets, solved exams.
-
 **[Biomedical Databases](https://github.com/Martinaa1408/BDB)**
 > This repository contains notes, slides, and notebooks for the Biomedical Data Bases course.
 

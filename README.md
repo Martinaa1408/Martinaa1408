@@ -18,62 +18,49 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Martinaa1408/Martinaa1408/output/pink-snake-contribution-graph.svg" alt="Pink Snake Graph"/>
 </p>
-
+<p align="center">
+  <a href="https://martinaa1408.github.io"><img src="https://img.shields.io/badge/Website-martinaa1408.github.io-7c5cff" alt="Website"></a>
+</p>
 
 ---
 
-### About Me
+### About me
 
-- MSc student in Bioinformatics at the University of Bologna (2024–2026)  
-- BSc in Biotechnology from the University of Bologna 
-- Deeply fascinated by the intersection between omics technologies, neuroscience and data science  
-- I’m currently exploring the potential of machine learning in understanding complex biological systems  
-- Background in molecular biology and histological techniques, with experience in research labs
+- Product Specialist at Onit, Cesena, in the team that builds healthcare data warehouses and Qlik Cloud dashboards
+- MSc in Bioinformatics (2026) and BSc in Biotechnology (2024), University of Bologna
+- MSc thesis at Neotron Laboratories: a decision support system for food contamination risk
+- Interested in data science for health, food safety and biology, and in teaching it
 
 ---
 
 ### Skills
 
-- **Learning and Using**: Python, Bash, R, Linux
-- **Computational Biology & Bioinformatics**: Modeling of complex biological systems, omics data interpretation, protein structure prediction and analysis, 
-    protein-ligand interactions, molecular simulations, and data-driven biological inference  
-- **Wet Lab Skills**: Western blot, flow cytometry, cryosectioning, immunohistochemistry, sample processing  
-- **Scientific Practices**: Literature research, scientific writing, team collaboration  
-- **Neuroscience curiosity**: Currently diving into omics-driven neurobiology and systems neuroscience
+- **Data and BI:** SQL, Qlik Cloud, data warehousing, dimensional modelling, dashboards
+- **Programming:** Python, R, Bash, Linux, Git
+- **Statistics and machine learning:** hypothesis testing, classification on imbalanced data, CNNs for medical images
+- **Bioinformatics:** sequence analysis, genome assembly and annotation, RNA-seq, DNA methylation, profile HMMs, protein structure
+- **Wet lab:** Western blot, flow cytometry, cryosectioning, immunohistochemistry
 
 ---
 
 ### Projects
 
-**[Lab](https://github.com/Martinaa1408/lab)**
-> Twenty interactive tools for bioinformatics, clinical statistics, machine learning, food safety and teaching. They run in the browser on simulated data. Live at [martinaa1408.github.io/lab](https://martinaa1408.github.io/lab/).
+#### Web
 
-**[Laboratory 2 of Bioinformatics project Group 5:](https://github.com/Martinaa1408/LB2_project_Group_5)**
-> This repository contains the datasets, scripts, and analyses for the Laboratory of Bioinformatics II course project, focusing on the prediction of secretory signal peptides.
+| Project | Description |
+|---|---|
+| [Personal website](https://github.com/Martinaa1408/Martinaa1408.github.io) | Portfolio with my studies, thesis, internship, current role and CV. |
+| [Lab](https://github.com/Martinaa1408/lab) | Browser tools on healthcare data, food safety, bioinformatics and teaching, built on simulated data. |
+| [Bioinformatics at Liceo Ferrari](https://github.com/Martinaa1408/liceo-ferrari-bioinformatics) | Slides, Colab notebooks and a student toolkit for two orientation sessions at my former high school. |
 
-**[Applied Genomics project](https://github.com/Martinaa1408/AG_project)**
-> This project focuses on the hybrid genome and transcriptome analysis of compost-derived fungal isolates with bioplastic-degrading potential. 
+#### University
 
-**[AML basic project](https://github.com/Martinaa1408/ML_basic_project)**
-> Machine Learning project on the UCI Yeast dataset for protein subcellular localization. 
-
-**[Computational Method of Bioinformatics](https://github.com/Martinaa1408/Computational_Method)**
-> This repository collects materials, notebooks, script and examples related to computational methods applied to biological data.
-
-**[DNA-RNA dynamics project Group 4](https://github.com/Martinaa1408/DNARNA_Group4)**
-> This repository contains the final project of Group 4 for the DNA/RNA Dynamics course that provides a full Illumina 450K methylation analysis pipeline in R.
-
-**[Kunitz HMM project of Laboratory 1 of Bioinformatics](https://github.com/Martinaa1408/Kunitz_HMM_project)**
-> Computational pipeline for detecting Kunitz-type protease inhibitor domains (PF00014) using a Profile HMM.
-
----
-
-### My website
-
-Interested in my academic experience? Visit my personal website for more insights.
-
-[![Visit my website](https://img.shields.io/badge/Visit%20my%20website-martinaa1408.github.io-purple?logo=google-chrome&logoColor=white)](https://martinaa1408.github.io)
-[![Lab](https://img.shields.io/badge/Lab-martinaa1408.github.io%2Flab-purple?logo=google-chrome&logoColor=white)](https://martinaa1408.github.io/lab/)
-
-
-
+| Project | Description |
+|---|---|
+| [Skin lesion classification](https://github.com/Martinaa1408/AML_adv_project) | Seven-class classification of dermatoscopic images (HAM10000) with EfficientNet-B0, class-weighted loss, Macro-F1 and Grad-CAM. |
+| [Yeast protein localization](https://github.com/Martinaa1408/ML_basic_project) | Machine learning pipeline on the UCI Yeast dataset to predict where a protein is located in the cell. |
+| [Signal peptide prediction](https://github.com/Martinaa1408/LB2_project_Group_5) | Group project: data collection, feature analysis and models to predict secretory signal peptides. |
+| [Hybrid genome assembly](https://github.com/Martinaa1408/AG_project) | Illumina and Nanopore assembly, annotation and RNA-seq of fungal isolates with bioplastic-degrading potential. |
+| [DNA methylation analysis](https://github.com/Martinaa1408/DNARNA_Group4) | Group project: Illumina 450K methylation pipeline in R with minfi. |
+| [Kunitz domain detection](https://github.com/Martinaa1408/Kunitz_HMM_project) | Profile HMM pipeline to find Kunitz-type protease inhibitor domains (Pfam PF00014). |
+| [Computational methods](https://github.com/Martinaa1408/Computational_Method) | Course notebooks and scripts on Python, data structures, Linux and sequence alignment. |

@@ -47,20 +47,34 @@
 
 #### Web
 
-| Project | Description |
-|---|---|
-| [Personal website](https://github.com/Martinaa1408/Martinaa1408.github.io) | Portfolio with my studies, thesis, internship, current role and CV. |
-| [Lab](https://github.com/Martinaa1408/lab) | Browser tools on healthcare data, food safety, bioinformatics and teaching, built on simulated data. |
-| [Bioinformatics at Liceo Ferrari](https://github.com/Martinaa1408/liceo-ferrari-bioinformatics) | Slides, Colab notebooks and a student toolkit for two orientation sessions at my former high school. |
+**[Personal website](https://github.com/Martinaa1408/Martinaa1408.github.io)** &nbsp; `HTML` `CSS` `JavaScript`  
+Portfolio with my studies, thesis, internship, current role and CV.
+
+**[Lab](https://github.com/Martinaa1408/lab)** &nbsp; `HTML` `JavaScript`  
+Browser tools on healthcare data, food safety, bioinformatics and teaching, built on simulated data.
+
+**[Bioinformatics at Liceo Ferrari](https://github.com/Martinaa1408/liceo-ferrari-bioinformatics)** &nbsp; `HTML` `Python` `Colab`  
+Slides, notebooks and a student toolkit for two orientation sessions at my former high school.
 
 #### University
 
-| Project | Description |
-|---|---|
-| [Skin lesion classification](https://github.com/Martinaa1408/AML_adv_project) | Seven-class classification of dermatoscopic images (HAM10000) with EfficientNet-B0, class-weighted loss, Macro-F1 and Grad-CAM. |
-| [Yeast protein localization](https://github.com/Martinaa1408/ML_basic_project) | Machine learning pipeline on the UCI Yeast dataset to predict where a protein is located in the cell. |
-| [Signal peptide prediction](https://github.com/Martinaa1408/LB2_project_Group_5) | Group project: data collection, feature analysis and models to predict secretory signal peptides. |
-| [Hybrid genome assembly](https://github.com/Martinaa1408/AG_project) | Illumina and Nanopore assembly, annotation and RNA-seq of fungal isolates with bioplastic-degrading potential. |
-| [DNA methylation analysis](https://github.com/Martinaa1408/DNARNA_Group4) | Group project: Illumina 450K methylation pipeline in R with minfi. |
-| [Kunitz domain detection](https://github.com/Martinaa1408/Kunitz_HMM_project) | Profile HMM pipeline to find Kunitz-type protease inhibitor domains (Pfam PF00014). |
-| [Computational methods](https://github.com/Martinaa1408/Computational_Method) | Course notebooks and scripts on Python, data structures, Linux and sequence alignment. |
+**[Skin lesion classification](https://github.com/Martinaa1408/AML_adv_project)** &nbsp; `Python` `PyTorch`  
+Seven-class classification of dermatoscopic images (HAM10000) with EfficientNet-B0, class-weighted loss, Macro-F1 and Grad-CAM.
+
+**[Yeast protein localization](https://github.com/Martinaa1408/ML_basic_project)** &nbsp; `Python` `scikit-learn`  
+Machine learning pipeline on the UCI Yeast dataset to predict where a protein is located in the cell.
+
+**[Signal peptide prediction](https://github.com/Martinaa1408/LB2_project_Group_5)** &nbsp; `Python` `SVM` `Deep learning`  
+Group project: data collection, feature analysis and models to predict secretory signal peptides.
+
+**[Hybrid genome assembly](https://github.com/Martinaa1408/AG_project)** &nbsp; `Illumina` `Nanopore` `RNA-seq`  
+Assembly, annotation and transcriptomics of fungal isolates with bioplastic-degrading potential.
+
+**[DNA methylation analysis](https://github.com/Martinaa1408/DNARNA_Group4)** &nbsp; `R` `minfi`  
+Group project: Illumina 450K methylation pipeline.
+
+**[Kunitz domain detection](https://github.com/Martinaa1408/Kunitz_HMM_project)** &nbsp; `HMMER` `Python`  
+Profile HMM pipeline to find Kunitz-type protease inhibitor domains (Pfam PF00014).
+
+**[Computational methods](https://github.com/Martinaa1408/Computational_Method)** &nbsp; `Python` `Linux`  
+Course notebooks and scripts on data structures, Linux and sequence alignment.

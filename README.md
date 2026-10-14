@@ -22,7 +22,7 @@
 
 ---
 
-### 👤 About Me
+### About Me
 
 - MSc student in Bioinformatics at the University of Bologna (2024–2026)  
 - BSc in Biotechnology from the University of Bologna 
@@ -32,7 +32,7 @@
 
 ---
 
-### 💻 Skills
+### Skills
 
 - **Learning and Using**: Python, Bash, R, Linux
 - **Computational Biology & Bioinformatics**: Modeling of complex biological systems, omics data interpretation, protein structure prediction and analysis, 
@@ -43,7 +43,10 @@
 
 ---
 
-### 📂 Projects
+### Projects
+
+**[Lab](https://github.com/Martinaa1408/lab)**
+> Twenty interactive tools for bioinformatics, clinical statistics, machine learning, food safety and teaching. They run in the browser on simulated data. Live at [martinaa1408.github.io/lab](https://martinaa1408.github.io/lab/).
 
 **[Laboratory 2 of Bioinformatics project Group 5:](https://github.com/Martinaa1408/LB2_project_Group_5)**
 > This repository contains the datasets, scripts, and analyses for the Laboratory of Bioinformatics II course project, focusing on the prediction of secretory signal peptides.
@@ -65,11 +68,12 @@
 
 ---
 
-### 🌐 My website
+### My website
 
 Interested in my academic experience? Visit my personal website for more insights.
 
 [![Visit my website](https://img.shields.io/badge/Visit%20my%20website-martinaa1408.github.io-purple?logo=google-chrome&logoColor=white)](https://martinaa1408.github.io)
+[![Lab](https://img.shields.io/badge/Lab-martinaa1408.github.io%2Flab-purple?logo=google-chrome&logoColor=white)](https://martinaa1408.github.io/lab/)
 
 
 

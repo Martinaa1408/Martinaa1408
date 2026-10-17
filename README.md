@@ -43,6 +43,17 @@
 
 ---
 
+### Certifications
+
+- AI Fluency: Framework and Foundations · Anthropic · 2026
+- Machine Learning Specialization · DeepLearning.AI and Stanford Online · 2026
+- Foundations of Data Science · Google · 2026
+- Introduction to KPIs: Measuring Success in Business · Coursera · 2026
+- Navigating U.S. Food Regulations: Safety and Enforcement · University of Illinois Urbana-Champaign · 2026
+- Nextflow Training Week · Seqera
+
+---
+
 ### Projects
 
 #### Web
